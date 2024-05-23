@@ -1,0 +1,10 @@
+/* comment */
+int main(){
+	int a = 1;
+	float b = 2.0e-1;
+	int c=3;
+	if (c!=0){
+		if(a == 1){
+			c = a+b; //comment
+	print("C=", c, '\n');
+return 0;
